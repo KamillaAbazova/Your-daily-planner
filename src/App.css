@@ -1,0 +1,63 @@
+body {
+  background-image: url("./imageOne.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 80vh;
+}
+.crossed {
+  text-decoration: line-through 2px black;
+}
+.box {
+  display: flex;
+
+}
+.App {
+  background-color: rgb(75, 82, 82);
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 100px;
+  min-height: 95vh;
+  border-radius: 40px;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+  font-family: 'Raleway', sans-serif;
+}
+.btn {
+  padding: 12px;
+  border: none;
+  background-color: #FF4B91;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+.add {
+  margin-left: 10px;
+  width: 100px;
+}
+.delete {
+  width: 385px;
+  margin-top: 50px;
+}
+
+.image {
+  margin-top: 50px;
+  border-radius: 50%;
+}
+
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: white;
+}
+h1 {
+  font-family: 'Raleway', sans-serif;
+}
