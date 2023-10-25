@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/your-daily-planner/static/css/main.71bc883c.css",
-    "main.js": "/your-daily-planner/static/js/main.7ef3d965.js",
-    "static/js/787.a5cad257.chunk.js": "/your-daily-planner/static/js/787.a5cad257.chunk.js",
-    "static/media/imageTwo.avif": "/your-daily-planner/static/media/imageTwo.46f7fa6a0b4f1f4ccda0.avif",
-    "static/media/imageFour.webp": "/your-daily-planner/static/media/imageFour.c3a633b055e4a4aba9b5.webp",
-    "static/media/imageOne.avif": "/your-daily-planner/static/media/imageOne.573f1593793ee86966c4.avif",
-    "index.html": "/your-daily-planner/index.html",
-    "main.71bc883c.css.map": "/your-daily-planner/static/css/main.71bc883c.css.map",
-    "main.7ef3d965.js.map": "/your-daily-planner/static/js/main.7ef3d965.js.map",
-    "787.a5cad257.chunk.js.map": "/your-daily-planner/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/Your-daily-planner/static/css/main.ef43511d.css",
+    "main.js": "/Your-daily-planner/static/js/main.ce7dd290.js",
+    "static/js/787.a5cad257.chunk.js": "/Your-daily-planner/static/js/787.a5cad257.chunk.js",
+    "static/media/imageTwo.avif": "/Your-daily-planner/static/media/imageTwo.46f7fa6a0b4f1f4ccda0.avif",
+    "static/media/imageFour.webp": "/Your-daily-planner/static/media/imageFour.c3a633b055e4a4aba9b5.webp",
+    "static/media/imageOne.avif": "/Your-daily-planner/static/media/imageOne.573f1593793ee86966c4.avif",
+    "index.html": "/Your-daily-planner/index.html",
+    "main.ef43511d.css.map": "/Your-daily-planner/static/css/main.ef43511d.css.map",
+    "main.ce7dd290.js.map": "/Your-daily-planner/static/js/main.ce7dd290.js.map",
+    "787.a5cad257.chunk.js.map": "/Your-daily-planner/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71bc883c.css",
-    "static/js/main.7ef3d965.js"
+    "static/css/main.ef43511d.css",
+    "static/js/main.ce7dd290.js"
   ]
 }
